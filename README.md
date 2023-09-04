@@ -1,6 +1,6 @@
 # Inst-Inpaint
 
-Official github : https://github.com/abyildirim/inst-inpaint
+Inspired by : https://github.com/abyildirim/inst-inpaint
 
 1.
 ![The-Magic-of-Image-Inpainting_page-0001](https://github.com/Rakib-data-scientist/Inst-Inpaint/assets/137823730/ad19dff2-71b1-4fa4-b096-0943bcb12db4)
